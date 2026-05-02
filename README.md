@@ -16,7 +16,7 @@ A deep learning model that classifies 38 types of plant diseases and healthy lea
 
 ## Model Details
 - **Architecture:** EfficientNetB0 (fine-tuned)
-- **Dataset:** PlantVillage (54,305 images, 38 classes)
+- **Dataset:** PlantVillage 
 - **Test Accuracy:** 99.41%
 - **F1 Score:** 0.9922
 - **AUC:** 0.9999
