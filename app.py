@@ -38,8 +38,7 @@ demo = gr.Interface(
     title="Plant Disease Classifier",
     description=(
         "Upload a photo of a plant leaf to identify the disease. "
-        "This model classifies 38 types of plant diseases and healthy leaves "
-        "using EfficientNetB0, trained on 54,305 images from the PlantVillage dataset "
+        "This model classifies types of plant diseases and healthy leaves using EfficientNetB0 "
         "with 99.41% test accuracy."
     ),
     theme=gr.themes.Soft(),
